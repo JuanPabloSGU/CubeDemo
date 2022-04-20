@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Created with The React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a smaller demo of using Reach Three Fiber
 
 ## Available Scripts
 
