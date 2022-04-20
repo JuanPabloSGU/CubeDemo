@@ -1,6 +1,6 @@
 # Created with The React App
 
-This is a smaller demo of using Reach Three Fiber
+This is a smaller demo of using React and Three js. First attempt at 3d rendering. 
 
 ![CubesDemo](https://user-images.githubusercontent.com/71339561/164267085-0d851b7a-e04b-49eb-ba61-1c9135b45a82.gif)
 
